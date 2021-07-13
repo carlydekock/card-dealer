@@ -1,4 +1,15 @@
-# Getting Started with Create React App
+# Card Dealer
+
+## Resources
+
+- Following along with Udemy's Modern React Bootcamp course with Colt Steele
+- Deck of Cards API info [here](https://deckofcardsapi.com/)
+- Special symbol codes for card suits [here](http://www.javascripter.net/faq/mathsymbols.htm)
+- Troubleshooting adding symbols in React article on Medium [here](https://medium.com/@jamesncox/rendering-unicode-symbol-in-react-76b1b4ffcee4)
+
+---------------------------------------------------
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
